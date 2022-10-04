@@ -11,8 +11,10 @@ https://youtu.be/C2NYb3EWFjk
 
 Алгоритм рандомного числа
 
-https://user-images.githubusercontent.com/103760832/192648641-9d47c27a-d621-4cfe-adb6-3b3db0f12f55.png
+![image](https://user-images.githubusercontent.com/103760832/193760458-469c748f-dce8-450b-ae55-b8ac5b545d97.png)
 
 Фото игры
 
-https://user-images.githubusercontent.com/103760832/192648899-8cc1dd58-5ca7-4789-a0cd-de03042afa8f.png
+![image](https://user-images.githubusercontent.com/103760832/193760496-15f4b8cc-8652-42be-bc44-f87778041ab3.png)
+
+https://media3.giphy.com/media/349qKnoIBHK1i/giphy.gif?cid=ecf05e476779hofka5feur83bwfei7scgmt9mh03obnk3p9j&rid=giphy.gif&ct=g
